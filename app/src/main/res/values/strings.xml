@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMaps</string>
+    <string name="access_token" translatable="false">pk.eyJ1IjoibW5hcmVuZHJhIiwiYSI6ImNrZjN4MTh4MDA3aGEyc25vdW93YjU4MG4ifQ.WHHRBMrWmyJe6bgoIZvu_Q</string>
+
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+</resources>
